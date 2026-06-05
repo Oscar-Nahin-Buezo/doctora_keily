@@ -1,2 +1,2 @@
-{"timestamp":"00:00:07.661","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:30.930","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:00:02.191","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:04:44.918","source":"Server","level":"LOG","message":"✓ Compiled in 2.2s"}
